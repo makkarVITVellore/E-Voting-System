@@ -1,4 +1,4 @@
-#E-Voting Application
+**E-Voting Application**
 The application is built using Spring Boot, Hibernate, and MySQL for the database. 
 The application allows users to:
 
